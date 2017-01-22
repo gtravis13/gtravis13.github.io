@@ -1,0 +1,15 @@
+#page-header {
+	height: 80px; width: 100%; background-color: red;
+}
+
+.logo{
+	width:150px; border-style:solid
+	}
+
+.logo-height {
+	height: 150px;
+}
+
+div { height: 80px; width: 100%; background-color: yellow;
+
+}
